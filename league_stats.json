@@ -1,0 +1,240 @@
+{
+    "players": {
+        "SunDevilTyler": {
+            "name": "SunDevilTyler",
+            "weekly": 24,
+            "monthly": 24,
+            "yearly": 24,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 7.05
+        },
+        "Thrillhouse": {
+            "name": "Thrillhouse",
+            "weekly": 22,
+            "monthly": 22,
+            "yearly": 22,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 7.48
+        },
+        "mike9413": {
+            "name": "mike9413",
+            "weekly": 16,
+            "monthly": 16,
+            "yearly": 16,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 6.64
+        },
+        "DAGOAT": {
+            "name": "DAGOAT",
+            "weekly": 24,
+            "monthly": 24,
+            "yearly": 24,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 7.22
+        },
+        "HeroOfWild": {
+            "name": "HeroOfWild",
+            "weekly": 22,
+            "monthly": 22,
+            "yearly": 22,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 6.87
+        },
+        "Magicmikey66": {
+            "name": "Magicmikey66",
+            "weekly": 24,
+            "monthly": 24,
+            "yearly": 24,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 6.7
+        },
+        "bohica7599": {
+            "name": "bohica7599",
+            "weekly": 24,
+            "monthly": 24,
+            "yearly": 24,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 6.09
+        },
+        "Skoltrain": {
+            "name": "Skoltrain",
+            "weekly": 20,
+            "monthly": 20,
+            "yearly": 20,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "career_avg_ppd": 6.4
+        },
+        "Raks": {
+            "name": "Raks",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 6.24
+        },
+        "Ixyjakobe": {
+            "name": "Ixyjakobe",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 6.13
+        },
+        "Kdaddy99": {
+            "name": "Kdaddy99",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 5.86
+        },
+        "DirtyBirds559": {
+            "name": "DirtyBirds559",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 5.56
+        },
+        "Kirito": {
+            "name": "Kirito",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 5.99
+        },
+        "Swarm": {
+            "name": "Swarm",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 5.72
+        },
+        "Leroiheenok": {
+            "name": "Leroiheenok",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "career_avg_ppd": 6.38
+        },
+        "SpyderRT1": {
+            "name": "SpyderRT1",
+            "weekly": 0,
+            "monthly": 0,
+            "yearly": 0,
+            "total_drives": 0,
+            "ppd_drives": 0,
+            "is_benched": false,
+            "off_ovr": 206,
+            "match_history": [],
+            "weekly_allowed": 0,
+            "monthly_allowed": 0
+        }
+    },
+    "history": [],
+    "matchup_history": [],
+    "current_matchup": {
+        "date": "2026-07-10",
+        "opp_league": "NeuroPerverse",
+        "assignments": {
+            "Thrillhouse": {
+                "opponent_name": "Dukie06",
+                "opponent_ovr": 240
+            },
+            "DAGOAT": {
+                "opponent_name": ".",
+                "opponent_ovr": 248
+            },
+            "SunDevilTyler": {
+                "opponent_name": "Strattoakmont",
+                "opponent_ovr": 239
+            },
+            "HeroOfWild": {
+                "opponent_name": "khromefiend",
+                "opponent_ovr": 233
+            },
+            "Magicmikey66": {
+                "opponent_name": "Grizzly",
+                "opponent_ovr": 232
+            },
+            "bohica7599": {
+                "opponent_name": "SHOWTIME_nuero",
+                "opponent_ovr": 231
+            },
+            "Skoltrain": {
+                "opponent_name": "HEAVYHITTERS50",
+                "opponent_ovr": 230
+            },
+            "Leroiheenok": {
+                "opponent_name": "McClain",
+                "opponent_ovr": 198
+            },
+            "mike9413": {
+                "opponent_name": "DinushanMK",
+                "opponent_ovr": 226
+            },
+            "Raks": {
+                "opponent_name": "BigChief98",
+                "opponent_ovr": 216
+            },
+            "Ixyjakobe": {
+                "opponent_name": "mack7",
+                "opponent_ovr": 220
+            },
+            "Kirito": {
+                "opponent_name": "GKH1987",
+                "opponent_ovr": 219
+            },
+            "Kdaddy99": {
+                "opponent_name": "JarvisJones",
+                "opponent_ovr": 223
+            },
+            "Swarm": {
+                "opponent_name": "CeeDeeDrive",
+                "opponent_ovr": 216
+            },
+            "DirtyBirds559": {
+                "opponent_name": "FHRITP",
+                "opponent_ovr": 210
+            },
+            "SpyderRT1": {
+                "opponent_name": "dougbaldwin",
+                "opponent_ovr": 225
+            }
+        },
+        "channel_id": 1522733402124714064
+    }
+}
