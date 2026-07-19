@@ -2732,6 +2732,6 @@ async def test_all(ctx):
 # 11. CONNECT TO DISCORD
 token = os.environ.get("DISCORD_BOT_TOKEN")
 if not token:
-    raise RuntimeError("DISCORD_BOT_TOKEN environment variable is not set. Add it to your Replit Secrets.")
+    raise RuntimeError("DISCORD_BOT_TOKEN environment variable is not set.")
 
 bot.run(token)
