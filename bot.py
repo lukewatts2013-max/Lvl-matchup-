@@ -2730,8 +2730,13 @@ async def test_all(ctx):
 
 
 # 11. CONNECT TO DISCORD
+import os
 token = os.environ.get("DISCORD_BOT_TOKEN")
 if not token:
-    raise RuntimeError("DISCORD_BOT_TOKEN environment variable is not set.")
+    # Instead of crashing, print a diagnostic message
+    print("DEBUG: DISCORD_BOT_TOKEN is missing!")
+    # If you still want to crash, make the error message unique
+    raise RuntimeError("TOKEN_NOT_FOUND_IN_RAILWAY")
+
 
 bot.run(token)
