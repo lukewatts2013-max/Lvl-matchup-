@@ -1,0 +1,1751 @@
+{
+    "players": {
+        "DAGOAT": {
+            "name": "DAGOAT",
+            "weekly": 122,
+            "monthly": 216,
+            "yearly": 216,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.97,
+            "discord_id": "1460844150998958242",
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 248,
+                    "opponent": ".",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 258,
+                    "opponent": "Allstar26",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 262,
+                    "opponent": "PatrickMaHovah",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 265,
+                    "opponent": "Xaz",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 258,
+                    "opponent": "************",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 256,
+                    "opponent": "NoMasGotas",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 30,
+                    "opp_ovr": 247,
+                    "opponent": "Shiestyszn13",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 272,
+                    "opponent": "Haramboss",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 80,
+            "weekly_allowed": 80,
+            "monthly_allowed": 142,
+            "off_ovr": 241,
+            "alltime_ppd": 7.7778,
+            "drives": 0,
+            "defensive_tds": 1,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 8,
+                    "opponent": "************",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 16,
+                    "opponent": "NoMasGotas",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 16,
+                    "opponent": "Shiestyszn13",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Haramboss",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "DirtyBirds559": {
+            "name": "DirtyBirds559",
+            "weekly": 90,
+            "monthly": 174,
+            "yearly": 174,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 5.41,
+            "discord_id": "543993116244443146",
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 210,
+                    "opponent": "FHRITP",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 210,
+                    "opponent": "FHRITP",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 214,
+                    "opponent": "GoPackGo",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 214,
+                    "opponent": "TheShaolin",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 8,
+                    "opp_ovr": 244,
+                    "opponent": "PastorJames",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 227,
+                    "opponent": "Rhinoz",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 224,
+                    "opponent": "rheum2run",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 222,
+                    "opponent": "Dauntless",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 249,
+                    "opponent": "DJ",
+                    "date": "2026-07-18"
+                }
+            ],
+            "points_allowed": 104,
+            "weekly_allowed": 104,
+            "monthly_allowed": 154,
+            "off_ovr": 233,
+            "alltime_ppd": 7.0,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "Rhinoz",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 16,
+                    "opponent": "Rhinoz",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 8,
+                    "opponent": "rheum2run",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Dauntless",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opponent": "DJ",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opponent": "DJ",
+                    "date": "2026-07-18"
+                },
+                {
+                    "points": 0,
+                    "opponent": "DJ",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "HeroOfWild": {
+            "name": "HeroOfWild",
+            "weekly": 116,
+            "monthly": 190,
+            "yearly": 190,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.58,
+            "discord_id": "807696646724386858",
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 233,
+                    "opponent": "khromefiend",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 242,
+                    "opponent": "Dakota",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 12,
+                    "opp_ovr": 239,
+                    "opponent": "SMurray7362",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 233,
+                    "opponent": "MVPTDKing",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 227,
+                    "opponent": "RJC.AQUEMINI",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 230,
+                    "opponent": "LevergdSellout",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 235,
+                    "opponent": "KingBossKrish",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 263,
+                    "opponent": "Shims3",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 104,
+            "weekly_allowed": 104,
+            "monthly_allowed": 142,
+            "off_ovr": 221,
+            "alltime_ppd": 5.7778,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 2,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 14,
+                    "opponent": "RJC.AQUEMINI",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 16,
+                    "opponent": "LevergdSellout",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 16,
+                    "opponent": "KingBossKrish",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 22,
+                    "opponent": "Shims3",
+                    "date": "2026-07-18"
+                },
+                {
+                    "points": 22,
+                    "opponent": "Shims3",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "Ixyjakobe": {
+            "name": "Ixyjakobe",
+            "weekly": 82,
+            "monthly": 144,
+            "yearly": 144,
+            "total_drives": 12,
+            "ppd_drives": 12,
+            "is_benched": true,
+            "career_avg_ppd": 6.09,
+            "discord_id": "1311146353627238463",
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 220,
+                    "opponent": "mack7",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 227,
+                    "opponent": "Denny",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 229,
+                    "opponent": "Hawksfly",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 247,
+                    "opponent": "Jerry",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 242,
+                    "opponent": "RJC_QUAN22",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 12,
+                    "opp_ovr": 253,
+                    "opponent": "BayBombers",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 238,
+                    "opponent": "PartyPickle",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 73,
+            "weekly_allowed": 73,
+            "monthly_allowed": 133,
+            "off_ovr": 220,
+            "alltime_ppd": 6.8889,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 24,
+                    "opponent": "RJC_QUAN22",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 20,
+                    "opponent": "BayBombers",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 14,
+                    "opponent": "PartyPickle",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "Kdaddy99": {
+            "name": "Kdaddy99",
+            "weekly": 82,
+            "monthly": 137,
+            "yearly": 137,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 5.85,
+            "discord_id": "1261852710182064175",
+            "match_history": [
+                {
+                    "points": 15,
+                    "opp_ovr": 223,
+                    "opponent": "JarvisJones",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 219,
+                    "opponent": "Tim",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 231,
+                    "opponent": "RichardStank",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 216,
+                    "opponent": "Coltsfan25",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 235,
+                    "opponent": "************",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 8,
+                    "opp_ovr": 240,
+                    "opponent": "23",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 20,
+                    "opp_ovr": 205,
+                    "opponent": "J.ME305",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 8,
+                    "opp_ovr": 236,
+                    "opponent": "Darkstar92",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 90,
+            "weekly_allowed": 90,
+            "monthly_allowed": 146,
+            "off_ovr": 230,
+            "alltime_ppd": 6.1111,
+            "drives": 0,
+            "defensive_tds": 1,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 12,
+                    "opponent": "************",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 14,
+                    "opponent": "23",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opponent": "J.ME305",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Darkstar92",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "Kirito": {
+            "name": "Kirito",
+            "weekly": 100,
+            "monthly": 144,
+            "yearly": 144,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 5.84,
+            "discord_id": "504380884846116864",
+            "match_history": [
+                {
+                    "points": 22,
+                    "opp_ovr": 219,
+                    "opponent": "GKH1987",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 210,
+                    "opponent": "NewIgnIn9Days",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 6,
+                    "opp_ovr": 223,
+                    "opponent": "meatmissile",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 191,
+                    "opponent": "54Bullseye",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 199,
+                    "opponent": "Ryan",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 206,
+                    "opponent": "QUESO_fundido",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 240,
+                    "opponent": "WienerPickle",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 6,
+                    "opp_ovr": 254,
+                    "opponent": "MateAmargo",
+                    "date": "2026-07-18"
+                }
+            ],
+            "points_allowed": 86,
+            "weekly_allowed": 86,
+            "monthly_allowed": 110,
+            "off_ovr": 238,
+            "alltime_ppd": 4.8889,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 24,
+                    "opponent": "Ryan",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 6,
+                    "opponent": "QUESO_fundido",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opponent": "WienerPickle",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 16,
+                    "opponent": "MateAmargo",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "Leroiheenok": {
+            "name": "Leroiheenok",
+            "weekly": 88,
+            "monthly": 143,
+            "yearly": 143,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.05,
+            "discord_id": "1220769455332917249",
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 198,
+                    "opponent": "McClain",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 20,
+                    "opp_ovr": 207,
+                    "opponent": "HighHeat",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 11,
+                    "opp_ovr": 206,
+                    "opponent": "SaulGoodman",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 14,
+                    "opp_ovr": 218,
+                    "opponent": "VictoryInJesus",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 8,
+                    "opp_ovr": 216,
+                    "opponent": "Berrycrunch",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 200,
+                    "opponent": "DEMONBIRD",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 20,
+                    "opp_ovr": 208,
+                    "opponent": "Tbone7",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 243,
+                    "opponent": "Chrispy",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 85,
+            "weekly_allowed": 85,
+            "monthly_allowed": 135,
+            "off_ovr": 217,
+            "alltime_ppd": 6.1111,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "Berrycrunch",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opponent": "DEMONBIRD",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 16,
+                    "opponent": "Tbone7",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 22,
+                    "opponent": "Chrispy",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "Magicmikey66": {
+            "name": "Magicmikey66",
+            "weekly": 110,
+            "monthly": 198,
+            "yearly": 198,
+            "total_drives": 18,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.53,
+            "discord_id": "1357565843080220735",
+            "match_history": [
+                {
+                    "points": 20,
+                    "opp_ovr": 232,
+                    "opponent": "Grizzly",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 234,
+                    "opponent": "ZG",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 239,
+                    "opponent": "Bubba",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 250,
+                    "opponent": "holydefender",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 245,
+                    "opponent": "RJC Deposits205",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 241,
+                    "opponent": "ZippityDooDahs",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 247,
+                    "opponent": "Ramathorn",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 12,
+                    "opp_ovr": 267,
+                    "opponent": "thehovahslap",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 93,
+            "weekly_allowed": 93,
+            "monthly_allowed": 159,
+            "off_ovr": 247,
+            "alltime_ppd": 7.1111,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 19,
+                    "opponent": "RJC Deposits205",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opponent": "ZippityDooDahs",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opponent": "Ramathorn",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 16,
+                    "opponent": "thehovahslap",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "Raks": {
+            "name": "Raks",
+            "weekly": 102,
+            "monthly": 164,
+            "yearly": 164,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.41,
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 216,
+                    "opponent": "BigChief98",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 14,
+                    "opp_ovr": 233,
+                    "opponent": "K2Shady",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 227,
+                    "opponent": "Creek",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 14,
+                    "opp_ovr": 249,
+                    "opponent": "AXEnSLASH",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 231,
+                    "opponent": "Papawhiskey",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 234,
+                    "opponent": "FSUUnconquered",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 231,
+                    "opponent": "Allusivecondom",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 259,
+                    "opponent": "Bird",
+                    "date": "2026-07-18"
+                }
+            ],
+            "points_allowed": 92,
+            "weekly_allowed": 92,
+            "monthly_allowed": 160,
+            "off_ovr": 241,
+            "discord_id": "816409034458136638",
+            "alltime_ppd": 6.8889,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 14,
+                    "opponent": "Papawhiskey",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opponent": "FSUUnconquered",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opponent": "Allusivecondom",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 8,
+                    "opponent": "Bird",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "Skoltrain": {
+            "name": "Skoltrain",
+            "weekly": 106,
+            "monthly": 180,
+            "yearly": 180,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.56,
+            "discord_id": "333691745785348099",
+            "match_history": [
+                {
+                    "points": 16,
+                    "opp_ovr": 230,
+                    "opponent": "HEAVYHITTERS50",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 231,
+                    "opponent": "INTENSE",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 14,
+                    "opp_ovr": 231,
+                    "opponent": "EaglesDadB",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 233,
+                    "opponent": "CartoonsPlural",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 232,
+                    "opponent": "Rbc123",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 235,
+                    "opponent": "GGORILLA",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 235,
+                    "opponent": "allusiveturkey",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 260,
+                    "opponent": "ChalupaBatman",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 106,
+            "weekly_allowed": 106,
+            "monthly_allowed": 146,
+            "off_ovr": 233,
+            "alltime_ppd": 6.0,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "Rbc123",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opponent": "GGORILLA",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opponent": "allusiveturkey",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opponent": "ChalupaBatman",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "SpyderRT1": {
+            "name": "SpyderRT1",
+            "weekly": 126,
+            "monthly": 185,
+            "yearly": 185,
+            "total_drives": 18,
+            "ppd_drives": 18,
+            "is_benched": false,
+            "off_ovr": 206,
+            "match_history": [
+                {
+                    "points": 14,
+                    "opp_ovr": 225,
+                    "opponent": "dougbaldwin",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 226,
+                    "opponent": "GetClizzyClapD",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 21,
+                    "opp_ovr": 224,
+                    "opponent": "Bleedinggreen",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 214,
+                    "opponent": "Zotar",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 238,
+                    "opponent": "moorey",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 21,
+                    "opp_ovr": 238,
+                    "opponent": "moorey",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 21,
+                    "opp_ovr": 251,
+                    "opponent": "Cxains_",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 14,
+                    "opp_ovr": 245,
+                    "opponent": "AlexanderDGr8",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 246,
+                    "opponent": "Eugene",
+                    "date": "2026-07-17"
+                }
+            ],
+            "weekly_allowed": 86,
+            "monthly_allowed": 132,
+            "career_avg_ppd": 6.18,
+            "points_allowed": 86,
+            "alltime_ppd": 6.5556,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "discord_id": "851633967346352140",
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "moorey",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Cxains_",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opponent": "AlexanderDGr8",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Eugene",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "SunDevilTyler": {
+            "name": "SunDevilTyler",
+            "weekly": 110,
+            "monthly": 190,
+            "yearly": 190,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 7.04,
+            "discord_id": "357928868977442818",
+            "points_allowed": 110,
+            "weekly_allowed": 110,
+            "monthly_allowed": 148,
+            "match_history": [
+                {
+                    "points": 16,
+                    "opp_ovr": 239,
+                    "opponent": "Strattoakmont",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 244,
+                    "opponent": "SmokieFella",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 239,
+                    "opponent": "yourmother",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 250,
+                    "opponent": "WAYSOFDJ",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 243,
+                    "opponent": "RJC.TRAVISTY",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 249,
+                    "opponent": "DIRTYBIRDP",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 244,
+                    "opponent": "HcTheOne",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 266,
+                    "opponent": "Diarmait",
+                    "date": "2026-07-18"
+                }
+            ],
+            "off_ovr": 261,
+            "alltime_ppd": 6.2222,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "RJC.TRAVISTY",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 16,
+                    "opponent": "DIRTYBIRDP",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 20,
+                    "opponent": "HcTheOne",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Diarmait",
+                    "date": "2026-07-18"
+                },
+                {
+                    "points": 18,
+                    "opponent": "Diarmait",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "Swarm": {
+            "name": "Swarm",
+            "weekly": 72,
+            "monthly": 138,
+            "yearly": 138,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.01,
+            "match_history": [
+                {
+                    "points": 22,
+                    "opp_ovr": 216,
+                    "opponent": "CeeDeeDrive",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 213,
+                    "opponent": "Springtrap",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 236,
+                    "opponent": "FlagrantFowl",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 233,
+                    "opponent": "PhinsUp",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 8,
+                    "opp_ovr": 244,
+                    "opponent": "Ramontbutler",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 235,
+                    "opponent": "WatchYaMouth",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 214,
+                    "opponent": "pickleplays",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 8,
+                    "opp_ovr": 245,
+                    "opponent": "Ceedeeztdz",
+                    "date": "2026-07-18"
+                }
+            ],
+            "points_allowed": 94,
+            "weekly_allowed": 94,
+            "monthly_allowed": 146,
+            "off_ovr": 250,
+            "discord_id": "1014697801235562526",
+            "alltime_ppd": 7.3333,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "Ramontbutler",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 22,
+                    "opponent": "WatchYaMouth",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opponent": "pickleplays",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 8,
+                    "opponent": "Ceedeeztdz",
+                    "date": "2026-07-18"
+                }
+            ]
+        },
+        "Thrillhouse": {
+            "name": "Thrillhouse",
+            "weekly": 114,
+            "monthly": 204,
+            "yearly": 204,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 7.18,
+            "discord_id": "575415281464246292",
+            "points_allowed": 88,
+            "weekly_allowed": 88,
+            "monthly_allowed": 138,
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 240,
+                    "opponent": "Dukie06",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 252,
+                    "opponent": "xseven33",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 20,
+                    "opp_ovr": 250,
+                    "opponent": "NFLJR",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 260,
+                    "opponent": "YouGotMossed84",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 245,
+                    "opponent": "Aiden_j16",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 20,
+                    "opp_ovr": 255,
+                    "opponent": "Lene22",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 252,
+                    "opponent": "Kaleb",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 271,
+                    "opponent": "PappyMac",
+                    "date": "2026-07-17"
+                }
+            ],
+            "off_ovr": 254,
+            "alltime_ppd": 7.5556,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 16,
+                    "opponent": "Aiden_j16",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Lene22",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Kaleb",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "bohica7599": {
+            "name": "bohica7599",
+            "weekly": 100,
+            "monthly": 190,
+            "yearly": 190,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.22,
+            "discord_id": "1124864704662224916",
+            "match_history": [
+                {
+                    "points": 22,
+                    "opp_ovr": 231,
+                    "opponent": "SHOWTIME_nuero",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 231,
+                    "opponent": "MethodTicaL",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 241,
+                    "opponent": "JvilleJagoff",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 12,
+                    "opp_ovr": 255,
+                    "opponent": "KRKN91_NEURO",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 232,
+                    "opponent": "RJCBarkthShark",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 241,
+                    "opponent": "EnterNameHere",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 247,
+                    "opponent": "Lane",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 268,
+                    "opponent": "United front Sandmanthaking",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 92,
+            "weekly_allowed": 92,
+            "monthly_allowed": 142,
+            "off_ovr": 235,
+            "alltime_ppd": 7.3333,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 24,
+                    "opponent": "RJCBarkthShark",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 22,
+                    "opponent": "EnterNameHere",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opponent": "Lane",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 16,
+                    "opponent": "United front Sandmanthaking",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "mike9413": {
+            "name": "mike9413",
+            "weekly": 110,
+            "monthly": 184,
+            "yearly": 184,
+            "total_drives": 15,
+            "ppd_drives": 15,
+            "is_benched": false,
+            "career_avg_ppd": 6.74,
+            "discord_id": "1278811387644350638",
+            "match_history": [
+                {
+                    "points": 22,
+                    "opp_ovr": 226,
+                    "opponent": "DinushanMK",
+                    "date": "2026-07-11"
+                },
+                {
+                    "points": 14,
+                    "opp_ovr": 215,
+                    "opponent": "Doomsday",
+                    "date": "2026-07-12"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 238,
+                    "opponent": "Er_Diablo",
+                    "date": "2026-07-13"
+                },
+                {
+                    "points": 22,
+                    "opp_ovr": 235,
+                    "opponent": "LoneStar_Neuro",
+                    "date": "2026-07-14"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 237,
+                    "opponent": "Tideron2001",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 16,
+                    "opp_ovr": 248,
+                    "opponent": "Ronin",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 243,
+                    "opponent": "cJaimes",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opp_ovr": 267,
+                    "opponent": "HurricaneDitka",
+                    "date": "2026-07-17"
+                }
+            ],
+            "points_allowed": 80,
+            "weekly_allowed": 80,
+            "monthly_allowed": 134,
+            "off_ovr": 229,
+            "alltime_ppd": 6.4444,
+            "drives": 0,
+            "defensive_tds": 0,
+            "defensive_2pts": 0,
+            "safeties": 0,
+            "defense_history": [
+                {
+                    "points": 22,
+                    "opponent": "Tideron2001",
+                    "date": "2026-07-15"
+                },
+                {
+                    "points": 20,
+                    "opponent": "Ronin",
+                    "date": "2026-07-16"
+                },
+                {
+                    "points": 24,
+                    "opponent": "cJaimes",
+                    "date": "2026-07-17"
+                },
+                {
+                    "points": 24,
+                    "opponent": "HurricaneDitka",
+                    "date": "2026-07-17"
+                }
+            ]
+        },
+        "tgore08": {
+            "name": "tgore08",
+            "weekly": 24,
+            "monthly": 24,
+            "yearly": 24,
+            "total_drives": 3,
+            "ppd_drives": 3,
+            "is_benched": false,
+            "off_ovr": 229,
+            "match_history": [
+                {
+                    "points": 24,
+                    "opp_ovr": 217,
+                    "opponent": "skin_tone",
+                    "date": "2026-07-18"
+                }
+            ],
+            "weekly_allowed": 24,
+            "monthly_allowed": 24,
+            "discord_id": "356992386238382081",
+            "points_allowed": 24,
+            "defense_history": [
+                {
+                    "points": 24,
+                    "opponent": "skin_tone",
+                    "date": "2026-07-18"
+                }
+            ]
+        }
+    },
+    "history": [],
+    "matchup_history": [
+        {
+            "date": "2026-07-13",
+            "opp_league": "Nueochristians",
+            "matchups": [
+                {
+                    "our_player": "DAGOAT",
+                    "our_score": 94,
+                    "opp_player": "Xaz",
+                    "opp_ovr": 265,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Thrillhouse",
+                    "our_score": 90,
+                    "opp_player": "YouGotMossed84",
+                    "opp_ovr": 260,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "bohica7599",
+                    "our_score": 90,
+                    "opp_player": "KRKN91_NEURO",
+                    "opp_ovr": 255,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Swarm",
+                    "our_score": 66,
+                    "opp_player": "PhinsUp",
+                    "opp_ovr": 233,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Magicmikey66",
+                    "our_score": 88,
+                    "opp_player": "holydefender",
+                    "opp_ovr": 250,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Raks",
+                    "our_score": 62,
+                    "opp_player": "AXEnSLASH",
+                    "opp_ovr": 249,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Ixyjakobe",
+                    "our_score": 62,
+                    "opp_player": "LoneStar_Neuro",
+                    "opp_ovr": 235,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "DirtyBirds559",
+                    "our_score": 84,
+                    "opp_player": "PastorJames",
+                    "opp_ovr": 244,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "mike9413",
+                    "our_score": 74,
+                    "opp_player": "Jerry",
+                    "opp_ovr": 247,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "SunDevilTyler",
+                    "our_score": 80,
+                    "opp_player": "WAYSOFDJ",
+                    "opp_ovr": 250,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "SpyderRT1",
+                    "our_score": 59,
+                    "opp_player": "MVPTDKing",
+                    "opp_ovr": 233,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Skoltrain",
+                    "our_score": 74,
+                    "opp_player": "CartoonsPlural",
+                    "opp_ovr": 233,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Leroiheenok",
+                    "our_score": 55,
+                    "opp_player": "VictoryInJesus",
+                    "opp_ovr": 218,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Kdaddy99",
+                    "our_score": 55,
+                    "opp_player": "Coltsfan25",
+                    "opp_ovr": 216,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "HeroOfWild",
+                    "our_score": 74,
+                    "opp_player": "Zotar",
+                    "opp_ovr": 214,
+                    "opp_score": null
+                },
+                {
+                    "our_player": "Kirito",
+                    "our_score": 44,
+                    "opp_player": "54Bullseye",
+                    "opp_ovr": 191,
+                    "opp_score": null
+                }
+            ],
+            "our_total": 1151,
+            "opp_total": null
+        }
+    ],
+    "current_matchup": {
+        "date": "2026-07-17",
+        "opp_league": null,
+        "assignments": {
+            "DAGOAT": {
+                "opponent_name": "Haramboss",
+                "opponent_ovr": 272,
+                "last_score": 24,
+                "opp_score": 24
+            },
+            "Thrillhouse": {
+                "opponent_name": "PappyMac",
+                "opponent_ovr": 271,
+                "last_score": 24
+            },
+            "bohica7599": {
+                "opponent_name": "United front Sandmanthaking",
+                "opponent_ovr": 268,
+                "last_score": 16,
+                "opp_score": 16
+            },
+            "Magicmikey66": {
+                "opponent_name": "thehovahslap",
+                "opponent_ovr": 267,
+                "last_score": 12,
+                "opp_score": 16
+            },
+            "mike9413": {
+                "opponent_name": "HurricaneDitka",
+                "opponent_ovr": 267,
+                "last_score": 24,
+                "opp_score": 0
+            },
+            "SunDevilTyler": {
+                "opponent_name": "Diarmait",
+                "opponent_ovr": 266,
+                "last_score": 24,
+                "opp_score": 42
+            },
+            "HeroOfWild": {
+                "opponent_name": "Shims3",
+                "opponent_ovr": 263,
+                "last_score": 16,
+                "opp_score": 44
+            },
+            "Skoltrain": {
+                "opponent_name": "ChalupaBatman",
+                "opponent_ovr": 260,
+                "opp_score": 22,
+                "last_score": 22
+            },
+            "Raks": {
+                "opponent_name": "Bird",
+                "opponent_ovr": 259,
+                "last_score": 24,
+                "opp_score": 8
+            },
+            "Kirito": {
+                "opponent_name": "MateAmargo",
+                "opponent_ovr": 254,
+                "last_score": 6,
+                "opp_score": 16
+            },
+            "DirtyBirds559": {
+                "opponent_name": "DJ",
+                "opponent_ovr": 249,
+                "opp_score": 24,
+                "last_score": 16
+            },
+            "SpyderRT1": {
+                "opponent_name": "Eugene",
+                "opponent_ovr": 246,
+                "opp_score": 24,
+                "last_score": 22
+            },
+            "Swarm": {
+                "opponent_name": "Ceedeeztdz",
+                "opponent_ovr": 245,
+                "last_score": 8,
+                "opp_score": 8
+            },
+            "Leroiheenok": {
+                "opponent_name": "Chrispy",
+                "opponent_ovr": 243,
+                "last_score": 24,
+                "opp_score": 22
+            },
+            "Kdaddy99": {
+                "opponent_name": "Darkstar92",
+                "opponent_ovr": 236,
+                "last_score": 8,
+                "opp_score": 24
+            },
+            "tgore08": {
+                "opponent_name": "skin_tone",
+                "opponent_ovr": 217,
+                "last_score": 24,
+                "opp_score": 24
+            }
+        },
+        "channel_id": 1522733402124714064
+    }
+}
