@@ -317,7 +317,6 @@ DEFAULT_PLAYERS = {
     "Skoltrain":     {"name": "Skoltrain",      "weekly": 20, "monthly": 20, "yearly": 20, "total_drives": 3, "ppd_drives": 3, "is_benched": False, "career_avg_ppd": 6.40},
     # Tier 3
     "Raks":          {"name": "Raks",           "weekly": 0,  "monthly": 0,  "yearly": 0,  "total_drives": 0, "ppd_drives": 0, "is_benched": False, "career_avg_ppd": 6.24},
-    "Ixyjakobe":     {"name": "Ixyjakobe",      "weekly": 0,  "monthly": 0,  "yearly": 0,  "total_drives": 0, "ppd_drives": 0, "is_benched": False, "career_avg_ppd": 6.13},
     "Kdaddy99":      {"name": "Kdaddy99",       "weekly": 0,  "monthly": 0,  "yearly": 0,  "total_drives": 0, "ppd_drives": 0, "is_benched": False, "career_avg_ppd": 5.86},
     "DirtyBirds559": {"name": "DirtyBirds559",  "weekly": 0,  "monthly": 0,  "yearly": 0,  "total_drives": 0, "ppd_drives": 0, "is_benched": False, "career_avg_ppd": 5.56},
     # Tier 4
